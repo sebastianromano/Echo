@@ -35,3 +35,15 @@ This project is currently in development and is not yet available for download. 
 
 **Feedback** 
 Issue creation, feature requests, bug squashing, pull requests are welcome, and encouraged!
+
+---
+## Resources:
+- iOS
+    - [Shortcuts User Guide](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios)
+        - [Advanced Privacy and security settings in Shortcuts ...]()
+- macOS
+    - [Shortcuts User Guide](https://support.apple.com/en-gb/guide/shortcuts-mac/welcome/mac)
+        - [Advanced Privacy and security settings in Shortcuts on Mac](https://support.apple.com/en-gb/guide/shortcuts-mac/apdfeb05586f/mac)
+- Apple Platform Security
+    - [Secure features in the Shortcuts app](https://support.apple.com/en-gb/guide/security/secec043bdae/1/web/1)
+    - [Secure coding practices for Shortcuts](https://support.apple.com/en-gb/guide/security/secec043bdae/1/web/2)
